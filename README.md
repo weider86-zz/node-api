@@ -1,2 +1,2 @@
 # node-api
-A node api project.
+A Node API project, developed with Mongo, Express, Nodemoon and plugins.
